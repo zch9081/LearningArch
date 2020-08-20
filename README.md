@@ -9,3 +9,5 @@
     - [Linux Capabilities 入门教程：概念篇](https://fuckcloudnative.io/posts/linux-capabilities-why-they-exist-and-how-they-work/)
 - Nginx
   - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
+- base64
+  - [Base64笔记](http://www.ruanyifeng.com/blog/2008/06/base64.html)
