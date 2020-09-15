@@ -11,3 +11,6 @@
   - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
 - base64
   - [Base64笔记](http://www.ruanyifeng.com/blog/2008/06/base64.html)
+- kerberos
+  - [Kerberos-维基百科](https://zh.wikipedia.org/wiki/Kerberos)
+  - [KERBEROS PROTOCOL TUTORIAL](https://www.kerberos.org/software/tutorial.html)
