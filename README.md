@@ -16,3 +16,5 @@
   - [KERBEROS PROTOCOL TUTORIAL](https://www.kerberos.org/software/tutorial.html)
 - LDAP
   - [LDAP系列（1）：快速搭建 LDAP 服务器](http://guleilab.com/2018/07/24/LDAP1/)
+- 证书
+  - [CA认证和颁发吊销证书](https://www.cnblogs.com/along21/p/7595912.html)
