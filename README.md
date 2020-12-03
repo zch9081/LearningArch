@@ -11,6 +11,7 @@
   - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
 - **kafka**
   - [kafka官方文档](https://kafka.apachecn.org/documentation.html)
+  - [kafka中文教程](https://www.orchome.com/kafka/index)
 - **安全设计**
   - kerberos
     - [Kerberos-维基百科](https://zh.wikipedia.org/wiki/Kerberos)
