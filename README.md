@@ -15,6 +15,7 @@
 - **kafka**
   - [kafka官方文档](https://kafka.apachecn.org/documentation.html)
   - [kafka中文教程](https://www.orchome.com/kafka/index)
+  - [Kafka理论之Consumer Group & Coordinator](https://yhyr.github.io/2018/12/26/Kafka%E7%90%86%E8%AE%BA%E4%B9%8BConsumer-Group-Coordinator/)
 - **安全设计**
   - kerberos
     - [Kerberos-维基百科](https://zh.wikipedia.org/wiki/Kerberos)
