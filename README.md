@@ -15,7 +15,7 @@
 - **Nginx**
   - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
 - **kafka**
-  - [kafka官方文档](https://kafka.apachecn.org/documentation.html)
+  - [kafka官方文档](https://kafka.apache.org/documentation/)
   - [kafka中文教程](https://www.orchome.com/kafka/index)
   - [Kafka理论之Consumer Group & Coordinator](https://yhyr.github.io/2018/12/26/Kafka%E7%90%86%E8%AE%BA%E4%B9%8BConsumer-Group-Coordinator/)
   - [Kafka消费者组再均衡问题](https://www.cnblogs.com/FG123/p/10095125.html)
