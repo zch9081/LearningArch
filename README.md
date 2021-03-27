@@ -19,6 +19,7 @@
   - [kafka中文教程](https://www.orchome.com/kafka/index)
   - [Kafka理论之Consumer Group & Coordinator](https://yhyr.github.io/2018/12/26/Kafka%E7%90%86%E8%AE%BA%E4%B9%8BConsumer-Group-Coordinator/)
   - [Kafka消费者组再均衡问题](https://www.cnblogs.com/FG123/p/10095125.html)
+  - [Configurable SASL callback handlers](https://cwiki.apache.org/confluence/display/KAFKA/KIP-86%3A+Configurable+SASL+callback+handlers)
 - **安全设计**
   - kerberos
     - [Kerberos-维基百科](https://zh.wikipedia.org/wiki/Kerberos)
