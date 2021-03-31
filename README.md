@@ -16,7 +16,7 @@
   - Nginx
     - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
   - Apache Httpd
-    - [Apache 教程](https://www.yiibai.com/apache_http)
+    - [Apache 教程](https://www.yiibai.com/apache_http) ![star](./icon/star.svg)
     - [Apache HTTP 服务器 2.4 文档](http://httpd.apache.org/docs/2.4/) 
 - **kafka**
   - [kafka官方文档](https://kafka.apache.org/documentation/)
