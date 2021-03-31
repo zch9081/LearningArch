@@ -12,8 +12,11 @@
     - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/) 
   - Kubernetes
     - [kubernetes官方文档](https://kubernetes.io/zh/) 
-- **Nginx**
-  - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
+- **代理**
+  - Nginx
+    - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
+  - Apache Httpd
+    - [Apache HTTP 服务器 2.4 文档](http://httpd.apache.org/docs/2.4/) 
 - **kafka**
   - [kafka官方文档](https://kafka.apache.org/documentation/)
   - [kafka中文教程](https://www.orchome.com/kafka/index)
