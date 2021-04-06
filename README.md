@@ -7,6 +7,8 @@
     - [epoll原理剖析#3： epoll](https://medium.com/@heshaobo2012/epoll%E5%8E%9F%E7%90%86%E5%89%96%E6%9E%90-3-epoll-bf9cdcf5e50)
   - Capabilities
     - [Linux Capabilities 入门教程：概念篇](https://fuckcloudnative.io/posts/linux-capabilities-why-they-exist-and-how-they-work/)
+  - Cgroup
+    - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html) 
 - **容器**
   - Docker
     - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/) 
