@@ -35,5 +35,7 @@
   - 证书
     - [CA认证和颁发吊销证书](https://www.cnblogs.com/along21/p/7595912.html)
 - **Misc**
+  - Git
+    - [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/896043488029600) 
   - base64
     - [Base64笔记](http://www.ruanyifeng.com/blog/2008/06/base64.html)
