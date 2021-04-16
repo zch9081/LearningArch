@@ -8,7 +8,9 @@
   - Capabilities
     - [Linux Capabilities 入门教程：概念篇](https://fuckcloudnative.io/posts/linux-capabilities-why-they-exist-and-how-they-work/)
   - Cgroup
-    - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html) 
+    - [Linux资源管理之cgroups简介](https://tech.meituan.com/2015/03/31/cgroups.html)
+  - Linux 命令
+    - [Linux 命令搜索引擎](https://wangchujiang.com/linux-command/)
 - **容器**
   - Docker
     - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/) 
