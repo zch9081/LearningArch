@@ -8,7 +8,7 @@ producer = KafkaProducer(
 )
 
 for i in range(10):
-    value = 'topic_zch_' + str(i)
+    value = bytes('topic_zch_' + str(i), encoding='utf-8')
     future = producer.send("zch", value)
     result = future.get(timeout=10)
     print(result)
