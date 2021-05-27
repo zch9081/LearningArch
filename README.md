@@ -21,13 +21,16 @@
     - [Nginx 中文文档](https://www.docs4dev.com/docs/zh/nginx/current/reference)
   - Apache Httpd
     - [Apache 教程](https://www.yiibai.com/apache_http)
-    - [Apache HTTP 服务器 2.4 文档](http://httpd.apache.org/docs/2.4/) 
-- **kafka**
-  - [kafka官方文档](https://kafka.apache.org/documentation/)
-  - [kafka中文教程](https://www.orchome.com/kafka/index)
-  - [Kafka理论之Consumer Group & Coordinator](https://yhyr.github.io/2018/12/26/Kafka%E7%90%86%E8%AE%BA%E4%B9%8BConsumer-Group-Coordinator/)
-  - [Kafka消费者组再均衡问题](https://www.cnblogs.com/FG123/p/10095125.html)
-  - [Configurable SASL callback handlers](https://cwiki.apache.org/confluence/display/KAFKA/KIP-86%3A+Configurable+SASL+callback+handlers)
+    - [Apache HTTP 服务器 2.4 文档](http://httpd.apache.org/docs/2.4/)
+- **消息中间件**
+  - kafka
+    - [kafka官方文档](https://kafka.apache.org/documentation/)
+    - [kafka中文教程](https://www.orchome.com/kafka/index)
+    - [Kafka理论之Consumer Group & Coordinator](https://yhyr.github.io/2018/12/26/Kafka%E7%90%86%E8%AE%BA%E4%B9%8BConsumer-Group-Coordinator/)
+    - [Kafka消费者组再均衡问题](https://www.cnblogs.com/FG123/p/10095125.html)
+    - [Configurable SASL callback handlers](https://cwiki.apache.org/confluence/display/KAFKA/KIP-86%3A+Configurable+SASL+callback+handlers)
+  - pulsar
+    - [pulsar 中文文档](https://pulsar.apache.org/docs/zh-CN/standalone/)
 - **安全设计**
   - kerberos
     - [Kerberos-维基百科](https://zh.wikipedia.org/wiki/Kerberos)
